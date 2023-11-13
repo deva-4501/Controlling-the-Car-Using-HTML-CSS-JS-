@@ -1,0 +1,33 @@
+#back{
+    background: url(building.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    width:auto;
+    height: 450px;
+}
+#road1
+{
+    background:url(road1.jpg);
+    display: flex;
+
+}
+#img{
+    width:150px;
+}
+#btn{
+    background-color: yellow;
+    width: 100px;
+    font-size: 30px;
+    margin-top: 30px;
+}
+button:hover{
+    background-color: black;
+    color:rgb(248, 4, 4);
+}
+
+#dbtn{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
